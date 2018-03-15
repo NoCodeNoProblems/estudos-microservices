@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="servico-configserver" />
+        <module name="servico-eurekaserver" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="servico-configserver" target="1.8" />
+      <module name="servico-eurekaserver" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

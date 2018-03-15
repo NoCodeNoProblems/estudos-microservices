@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/estudos-microservices.iml" filepath="$PROJECT_DIR$/.idea/estudos-microservices.iml" />
       <module fileurl="file://$PROJECT_DIR$/servico-configserver/servico-configserver.iml" filepath="$PROJECT_DIR$/servico-configserver/servico-configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servico-eurekaserver/servico-eurekaserver.iml" filepath="$PROJECT_DIR$/servico-eurekaserver/servico-eurekaserver.iml" />
     </modules>
   </component>
 </project>

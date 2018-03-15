@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: nerimicroservice-eureka-server
+  cloud:
+    config:
+      uri: http://localhost:9092
